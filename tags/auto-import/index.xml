@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Auto Import on Business Directory</title>
+    <link>http://localhost:1313/tags/auto-import/</link>
+    <description>Recent content in Auto Import on Business Directory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/auto-import/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meahjohn Auto Import and Car Rental</title>
+      <link>http://localhost:1313/businesses/meahjohn-auto-import-and-car-rental/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/businesses/meahjohn-auto-import-and-car-rental/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
